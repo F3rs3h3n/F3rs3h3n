@@ -7,4 +7,4 @@
 <br>
 
 ## 📍 Reminder for myself
-Inundated with endless streams of information, we find ourselves in a constant hunger for time. Amidst this deluge, the very essence of our lives seems to elude us, as moments slip through our grasp like grains of sand..
+Inundated with endless streams of information, we find ourselves in a constant hunger for time. Amidst this deluge, the very essence of our lives seems to elude us, as moments slip through our grasp like grains of sand.
