@@ -4,7 +4,7 @@
 
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/f3rs3h3n.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/f3rs3h3n.png" alt="TryHackMe" />
 
 ## Certification
 ### Red Team Operations Track
