@@ -14,8 +14,8 @@
 <img width="105" height="105" alt src="./images/ctmp.png"> <img width="105" height="105" alt src="./images/pcap-31-03.png"> <img width="105" height="105" alt src="./images/LPI_LPIC2.png">  
 
 
-### Cyber Defense & Risk Monitoring
-<img width="105" height="105" alt src="./images/CySA+.png"> <img width="105" height="105" alt src="./images/Security+.png"> 
+### Cyber Defense & Threat Intelligence
+<img width="105" height="105" alt src="./images/CTI101.png"> <img width="105" height="105" alt src="./images/CySA+.png"> <img width="105" height="105" alt src="./images/Security+.png"> 
 
 
 ## Expired  
