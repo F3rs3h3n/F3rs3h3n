@@ -1,6 +1,7 @@
 # 🍵 Hi 
-📖 Senior Security Engineer in Japan.  
-🔓 Involvement in web penetration testing specifically.  
+- Senior Security Engineer in Japan 
+- Red Team Lead  
+- Synack Red Team Researcher
 
 
 
