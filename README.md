@@ -12,8 +12,7 @@
 <img width="105" height="105" alt src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/109459517"><img width="105" height="105" alt src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79200051"><img width="105" height="105" alt src="./images/CRTL.png"> <img width="105" height="105" alt src="./images/CRTO.png"> 
 
 ### Against Cloud Environments
-<img height="105" alt src="./images/CARTP.png">
-<img height="105" alt src="./images/MCRTA.png">
+<img height="105" alt src="./images/CARTP.png"> <img height="105" alt src="./images/MCRTA.png">
 
 ## Purple Team Operations Track
 <img height="105" alt src="./images/CPTA-V2.png">
