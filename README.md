@@ -11,7 +11,7 @@
 ### Against On-prem Environments
 <img width="105" height="105" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/109459517"><img width="105" height="105" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79200051"><img width="105" height="105" src="./images/CRTL.png"> <img width="105" height="105" src="./images/CRTO.png"> 
 
-### Against Web Application
+### Against Web Applications
 <a href="https://academy.hackthebox.com/achievement/badge/f5638147-6c5a-11f0-bcfd-bea50ffe6cb4"><img height="105" src="./images/CBBH.png"></a>
 
 ### Against Cloud Environments
