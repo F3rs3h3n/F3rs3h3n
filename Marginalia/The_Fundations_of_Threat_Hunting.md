@@ -2,7 +2,7 @@
 
 ## Table of Contents with Reading Progress
 
-Part 1: Preparation - Why and How to Start the Hunting Process
+- Part 1: Preparation - Why and How to Start the Hunting Process
     - [x] Ch.1 An Introduction to Threat Hunting
     - [x] Ch.2 Requirements and Motivations
     - [x] Ch.3 Team Construct
