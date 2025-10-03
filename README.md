@@ -32,3 +32,28 @@
 ## Expired  
 <img width="105" height="105" src="./images/PenTest+.png"> <img width="105" height="105" src="./images/AWSSAA.png"> <img width="105" height="105" src="./images/CCNA.png">
 
+<br>
+
+
+# 📖 Marginalia (Reading Notes)
+Here are some of the books I've read, with links to my notes.
+
+## Threat Hunting
+
+<div style="display: flex; gap: 20px;">
+
+  <div align="center">
+    <a href="https://www.packtpub.com/en-us/product/the-foundations-of-threat-hunting-9781803237282">
+      <img width="105" src="https://content.packt.com/_/image/original/B18282/cover_image.jpg">
+    </a><br>
+    <a href="./Marginalia/The_Foundations_of_Threat_Hunting.md">Marginalia</a>
+  </div>
+
+  <div align="center">
+    <a href="https://www.packtpub.com/en-us/product/practical-threat-intelligence-and-data-driven-threat-hunting-9781838556372">
+      <img width="105" src="https://content.packt.com/_/image/original/B13376/cover_image.jpg">
+    </a><br>
+    <a href="./Marginalia/Practical_Threat_Intelligence_and_Data-Driven_Threat_Hunting.md">Marginalia</a>
+  </div>
+
+</div>
