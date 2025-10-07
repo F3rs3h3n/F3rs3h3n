@@ -12,7 +12,7 @@
 <img width="105" height="105" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/109459517"><img width="105" height="105" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79200051"><img width="105" height="105" src="./images/CRTL.png"> <img width="105" height="105" src="./images/CRTO.png"> 
 
 ### Against Web Applications
-<a href="https://academy.hackthebox.com/achievement/badge/f5638147-6c5a-11f0-bcfd-bea50ffe6cb4"><img height="105" src="./images/CBBH.png"></a>
+<a href="https://academy.hackthebox.com/achievement/badge/f5638147-6c5a-11f0-bcfd-bea50ffe6cb4"><img height="105" src="./images/CWES.png"></a>
 
 ### Against Cloud Environments
 <img height="105" src="./images/CARTP.png"> <img height="105" src="./images/MCRTA.png">
@@ -21,7 +21,7 @@
 <img height="105" src="./images/CPTA-V2.png">
 
 ## Blue Team Operations Track
-<img width="105" height="105" src="./images/CySA+.png"> <img width="105" height="105" src="./images/Security+.png">
+<a href="https://academy.hackthebox.com/achievement/badge/e84348e0-a370-11f0-9254-bea50ffe6cb4"><img height="105" src="./images/CDSA.png"></a> <img width="105" height="105" src="./images/CySA+.png"> <img width="105" height="105" src="./images/Security+.png">
 
 ### Threat Intelligence and Modeling
 <img width="105" height="105" src="./images/ctmp.png"> <img width="105" height="105" src="./images/CTI101.png"> 
