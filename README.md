@@ -15,7 +15,7 @@
 <a href="https://academy.hackthebox.com/achievement/badge/f5638147-6c5a-11f0-bcfd-bea50ffe6cb4"><img height="105" src="./images/CWES.png"></a>
 
 ### Against Cloud Environments
-<img height="105" src="./images/CARTP.png"> <img height="105" src="./images/MCRTA.png">
+<img height="105" src="./images/ARTE.png"> <img height="105" src="./images/CARTP.png"> <img height="105" src="./images/MCRTA.png">
 
 ## Purple Team Operations Track
 <img height="105" src="./images/CPTA-V2.png">
