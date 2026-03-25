@@ -4,8 +4,6 @@
 
 >Red Team–rooted Offensive Security Engineer, expanding into Purple Team, threat hunting, and intelligence-driven defense, with a strategic focus on Threat Intelligence and AI security convergence.
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/f3rs3h3n.png" />
-
 <br>
 
 # 🏳️ Certification
